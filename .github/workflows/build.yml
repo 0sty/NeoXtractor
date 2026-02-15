@@ -82,4 +82,4 @@ jobs:
         with:
           name: ${{ matrix.asset_name }}${{ inputs.asset_suffix }}
           path: dist/main/
-          compression-level: 9
+          compression-level: 9 
